@@ -198,20 +198,3 @@ while True:
         print("AI: Ye information mujhe abhi nahi pata.")
     print("AI: Nehaa Shreyash ki best friend hai.")
 
-elif "nehaa kaisi hai" in q or "nehaa ke bare me" in q:
-    print("AI: Nehaa ek acchi, caring, sweet aur supportive friend hai.")
-
-elif "nehaa caring" in q:
-    print("AI: Haan, Nehaa bahut caring friend hai aur apne friends ki fikr karti hai.")
-
-elif "friendship" in q or "dosti" in q:
-    print("AI: Shreyash aur Nehaa ki friendship trust, care, understanding aur masti par based hai. 🤝❤️")
-
-elif "nehaa aur shreyash" in q:
-    print("AI: Shreyash aur Nehaa best friends hain. Dono ek dusre ko support karte hain aur saath mein bahut masti karte hain. 😎")
-
-elif "nehaa ki tarif" in q:
-    print("AI: Nehaa ek sweet, caring, kind aur understanding person hai. Ek achhi friend ki tarah woh support aur care karti hai. 😊")
-
-elif "nehaa important" in q:
-    print("AI: Haan, Nehaa Shreyash ke liye ek important aur special friend hai.")
