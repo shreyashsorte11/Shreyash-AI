@@ -194,7 +194,5 @@ while True:
     elif "kaise ho" in q:
         print("AI: Main mast hoon bhai 😂")
 
-    else:
-        print("AI: Ye information mujhe abhi nahi pata.")
-    print("AI: Nehaa Shreyash ki best friend hai.")
+    
 
