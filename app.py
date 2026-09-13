@@ -113,7 +113,8 @@ while True:
         print("AI: Welcome bhai 😎")
 
     else:
-        print("AI: Hmm... ye information mujhe abhi nahi pata.")print("🤖 Hello! Main Shreyash ka AI hoon.")
+        print("AI: Hmm... ye information mujhe abhi nahi pata.")
+        print("🤖 Hello! Main Shreyash ka AI hoon.")
 print("Mujhse kuch bhi pucho. Band karne ke liye 'bye' likho.")
 
 while True:
