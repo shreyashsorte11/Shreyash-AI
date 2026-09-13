@@ -199,7 +199,8 @@ while True:
     print("AI: Nehaa Shreyash ki best friend hai.")
 
 elif "best friend" in q or "bestie" in q:
-    print("AI: Shreyash ki best friend Nehaa hai.")
+    print("AI: Shreyash ki best friend Nehaa hai")
+
 
 elif "nehaa kaisi hai" in q or "nehaa ke bare me" in q:
     print("AI: Nehaa ek acchi, caring, sweet aur supportive friend hai.")
