@@ -1,4 +1,4 @@
-0print("🤖 Hello bhai! Main Shreyash ka personal AI hoon.")
+print("🤖 Hello bhai! Main Shreyash ka personal AI hoon.")
 print("Mujhse kuch bhi pucho. 'bye' likhoge to main band ho jaunga.")
 
 while True:
