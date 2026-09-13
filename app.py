@@ -43,7 +43,8 @@ while True:
         print("AI: Main mast hoon bhai 😂")
 
     else:
-        print("AI: Sorry yrr ye nh pata 🤫🤫.")print("🤖 Hello bhai! Main Shreyash ka personal AI hoon.")
+        print("AI: Sorry yrr ye nh pata 🤫🤫.")
+        print("🤖 Hello bhai! Main Shreyash ka personal AI hoon.")
 print("Mujhse kuch bhi pucho. 'bye' likhoge to main band ho jaunga.")
 
 while True:
