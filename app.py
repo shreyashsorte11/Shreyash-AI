@@ -1,4 +1,4 @@
-print("🤖 Hello bhai! Main Shreyash ka personal AI hoon.")
+0print("🤖 Hello bhai! Main Shreyash ka personal AI hoon.")
 print("Mujhse kuch bhi pucho. 'bye' likhoge to main band ho jaunga.")
 
 while True:
@@ -197,10 +197,6 @@ while True:
     else:
         print("AI: Ye information mujhe abhi nahi pata.")
     print("AI: Nehaa Shreyash ki best friend hai.")
-
-elif "best friend" in q or "bestie" in q:
-    print("AI: Shreyash ki best friend Nehaa hai")
-
 
 elif "nehaa kaisi hai" in q or "nehaa ke bare me" in q:
     print("AI: Nehaa ek acchi, caring, sweet aur supportive friend hai.")
