@@ -141,14 +141,16 @@ while True:
         print("AI: Main mast hoon bhai 😂 Tu bata!")
 
     else:
-        print("AI: Ye mujhe abhi nahi pata. Mujhe ye answer sikhaya nahi gaya.")knowledge = {
+        print("AI: Ye mujhe abhi nahi pata. Mujhe ye answer sikhaya nahi gaya.")
+        knowledge = {
     "naam": "Shreyash",
     "exam": "JEE",
     "favourite_subject": "Physics",
     "city": "Nagpur"
 }
 
-print(knowledge)print("🤖 Hello bhai! Main Shreyash ka personal AI hoon.")
+print(knowledge)
+print("🤖 Hello bhai! Main Shreyash ka personal AI hoon.")
 print("Mujhse kuch bhi pucho. 'bye' likhoge to main band ho jaunga.")
 
 while True:
